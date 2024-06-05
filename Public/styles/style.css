@@ -1,0 +1,52 @@
+
+body{
+    margin: 0;
+    color: rgb(146, 140, 128);
+}
+
+#head-container {
+    background-color: rgb(65, 46, 46);
+}
+
+.head-web {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.proflie-pic {
+    border-radius: 50%;
+}
+
+#main-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    background-color: rgb(66, 62, 62);
+}
+
+
+#footer-container {
+    background-color: rgb(65, 46, 46);
+}
+
+.footer-web {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: rgb(128, 99, 99);
+}
+
+.footer-contact {
+    display: flex;
+}
+
+.logo {
+    height: 50px;
+    padding: 10px;
+}
